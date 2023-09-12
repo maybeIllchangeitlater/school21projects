@@ -1,0 +1,4 @@
+/Users/susannel/calc/src/build/CMakeFiles/ThisTimeforSure.dir
+/Users/susannel/calc/src/build/CMakeFiles/edit_cache.dir
+/Users/susannel/calc/src/build/CMakeFiles/rebuild_cache.dir
+/Users/susannel/calc/src/build/CMakeFiles/ThisTimeforSure_autogen.dir
